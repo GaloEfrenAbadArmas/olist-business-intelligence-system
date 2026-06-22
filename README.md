@@ -11,6 +11,11 @@ Curso Académico 2025-2026
 **Tutor:** Agustín Walabonso Lara Romero
 
 ---
+## Notebook principal
+
+Para consultar el desarrollo completo del análisis realizado durante el proyecto, puede acceder al cuaderno de trabajo en el siguiente enlace:
+
+👉 [Abrir notebook de análisis](./Notebook/TFM_Analysis.ipynb)
 
 ## Descripción del proyecto
 
