@@ -3,7 +3,7 @@
 ## Trabajo Fin de Máster
 
 **Máster Universitario en Analítica de Negocios y Datos Masivos**  
-**Universidad CEU Cardenal Herrera**  
+**Universidad CEU Fernando III**  
 Curso Académico 2025-2026
 
 **Autor:** Galo Efrén Abad Armas
